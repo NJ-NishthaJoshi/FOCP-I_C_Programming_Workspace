@@ -1,7 +1,8 @@
 # FOCP-I_C_Programming_Workspace
-# FOCP-I - C Programming Workspace
 
 Name: Nishtha Joshi
+Section:E
+Semester: 1
 Subject: Fundamentals of Computer Programming (FOCP-I)
 
 This repo contains all my C programming assignments.
