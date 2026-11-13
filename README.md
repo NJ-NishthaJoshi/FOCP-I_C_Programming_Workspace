@@ -1,13 +1,17 @@
 # FOCP-I_C_Programming_Workspace
 
+
 Name: Nishtha Joshi
-Section:E
+
+Section: E
+
 Semester: 1
-Roll no.:26CSU215
+
+Roll No.: 26CSU215
+
 Subject: Fundamentals of Computer Programming (FOCP-I)
 
 This repo contains all my C programming assignments.
-
 ## Assignment 1
 - A1-{Q-1: Display Student Information}
 - A1-{Q-2: Accept and Display User Details}
